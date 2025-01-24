@@ -1,5 +1,5 @@
 # Client-Server Communication Using Python Sockets
-
+<img src="https://socialify.git.ci/PavinDas/Socket_Communication/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Socket" width="640" height="320" />
 This project demonstrates a simple client-server communication model using Python's `socket` module. The server listens for connections and echoes back messages sent by the client. It's a minimalistic example of TCP-based communication.
 
 ## Features
